@@ -1,5 +1,7 @@
 # pwa-text-editor Just Another Text Editor (JATE)
 
+- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 Just Another Text Editor (JATE) is a progressive web application (PWA) that allows users to edit text in an offline environment. It uses modern web technologies such as IndexedDB for storing content, Workbox for service worker caching, and Webpack for bundling. JATE is installable and works seamlessly both online and offline, ensuring that users can continue to edit and store their text even without an internet connection.
@@ -53,8 +55,19 @@ Please follow these steps to use the application:
 
 ## Screenshots of Application:
 
+- ![FirstPage](/screenshots/Screenshot%202024-10-10%20at%206.23.15 PM.png)
+- ![ShowsInstalled](/screenshots/Screenshot%202024-10-10%20at%206.23.55 PM.png)
+- ![ShowsConsole](/screenshots/Screenshot%202024-10-10%20at%206.24.29 PM.png)
+- ![ShowsDataTyped](/screenshots/Screenshot%202024-10-10%20at%206.24.46 PM.png)
+- ![ShowsSavedData](/screenshots/Screenshot%202024-10-10%20at%206.25.37 PM.png)
+- ![ShowsSavedInApp](/screenshots/Screenshot%202024-10-10%20at%206.28.56 PM.png)
+
 ## Deployed Application
 
 Check out the live version of the JATE PWA here: [Live App](https://pwa-text-editor-ku6b.onrender.com)
 
 You can also find the GitHub repository here: [GitHub Repo](https://github.com/jjackson0228/pwa-text-editor)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
